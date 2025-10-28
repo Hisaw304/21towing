@@ -44,7 +44,7 @@ const Footer = () => {
           <h3 className="text-lg font-semibold text-white mb-3">Quick Links</h3>
           <ul className="space-y-2">
             <li>
-              <a href="#hero" className="hover:text-red-400 transition">
+              <a href="#" className="hover:text-red-400 transition">
                 Home
               </a>
             </li>
@@ -54,7 +54,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="#" className="hover:text-red-400">
+              <a href="#accident" className="hover:text-red-400">
                 Accident Towing
               </a>
             </li>

@@ -3,10 +3,7 @@ import { AlertTriangle, MapPin, Car, Activity, Calendar } from "lucide-react";
 
 const AccidentStats = () => {
   return (
-    <section
-      id="accident-stats"
-      className="bg-white py-20 px-6 md:px-12 lg:px-20"
-    >
+    <section id="accident" className="bg-white py-20 px-6 md:px-12 lg:px-20">
       <div className="max-w-6xl mx-auto text-center mb-16">
         <h2 className="text-3xl sm:text-4xl font-extrabold text-blue-900 mb-4">
           The Reality of Traffic Accidents Across the U.S.

@@ -5,7 +5,7 @@ import towingImage from "../assets/towing-team.jpg"; // change this to your actu
 const TowingIntro = () => {
   return (
     <section
-      id="towing-intro"
+      id="about"
       className="bg-gray-50 py-20 flex flex-col md:flex-row items-center justify-between gap-12 px-6 md:px-12 lg:px-20"
     >
       {/* Left Content */}

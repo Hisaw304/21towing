@@ -30,13 +30,13 @@ const Navbar = () => {
           <a href="#services" className="hover:text-red-400">
             Towing Services
           </a>
-          <a href="#" className="hover:text-red-400">
+          <a href="#accident" className="hover:text-red-400">
             Accident Towing
           </a>
           <a href="#about" className="hover:text-red-400">
             About Us
           </a>
-          <a href="#about" className="hover:text-red-400">
+          <a href="#reviews" className="hover:text-red-400">
             Our Reviews
           </a>
         </div>
@@ -59,13 +59,13 @@ const Navbar = () => {
           <a href="#services" className="hover:text-yellow-400">
             Towing Services
           </a>
-          <a href="#" className="hover:text-red-400">
+          <a href="#accident" className="hover:text-red-400">
             Accident Towing
           </a>
           <a href="#about" className="hover:text-red-400">
             About Us
           </a>
-          <a href="#about" className="hover:text-red-400">
+          <a href="#reviews" className="hover:text-red-400">
             Our Reviews
           </a>
         </div>
