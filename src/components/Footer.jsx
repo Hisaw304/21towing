@@ -29,16 +29,6 @@ const Footer = () => {
           <p>✉️ info@21towing.com</p>
         </div>
 
-        {/* Opening Hours */}
-        <div>
-          <h3 className="text-lg font-semibold text-white mb-3">
-            Opening Hours
-          </h3>
-          <p>Mon – Fri: 9:00 AM – 6:00 PM</p>
-          <p>Sat: 10:00 AM – 4:00 PM</p>
-          <p>Sun: Closed</p>
-        </div>
-
         {/* Quick Links */}
         <div>
           <h3 className="text-lg font-semibold text-white mb-3">Quick Links</h3>
